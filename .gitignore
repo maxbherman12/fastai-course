@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 fastbook
+.DS_Store
+lessons
